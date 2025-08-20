@@ -44,17 +44,14 @@
 
 <h3 align="center"> 🏠 Home Page </h3>  
 <p align="center">
-  <img src="https://via.placeholder.com/850x450.png?text=Home+Page" width="80%"/>
+  <img src="https://res.cloudinary.com/dng99s7st/image/upload/v1755701714/cteneaabvdgjjjqtqrug.png"/>
 </p>
 
-<h3 align="center"> 🍴 Ordering System </h3>  
-<p align="center">
-  <img src="https://via.placeholder.com/850x450.png?text=Ordering+System" width="80%"/>
-</p>
+
 
 <h3 align="center"> 📅 Reservations </h3>  
 <p align="center">
-  <img src="https://via.placeholder.com/850x450.png?text=Reservations" width="80%"/>
+  <img src=https://res.cloudinary.com/dng99s7st/image/upload/v1755701714/cteneaabvdgjjjqtqrug.png/>
 </p>
 
 ---
