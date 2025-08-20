@@ -44,14 +44,14 @@
 
 <h3 align="center"> 🏠 Home Page </h3>  
 <p align="center">
-  <img src="https://res.cloudinary.com/dng99s7st/image/upload/v1755701714/cteneaabvdgjjjqtqrug.png"/>
+  <img src="https://res.cloudinary.com/dng99s7st/image/upload/v1755701719/ysc2diupgeljqgo7rw7z.png"/>
 </p>
 
 
 
 <h3 align="center"> 📅 Reservations </h3>  
 <p align="center">
-  <img src=https://res.cloudinary.com/dng99s7st/image/upload/v1755701714/cteneaabvdgjjjqtqrug.png/>
+  <img src="https://res.cloudinary.com/dng99s7st/image/upload/v1755701714/cteneaabvdgjjjqtqrug.png"/>
 </p>
 
 ---
